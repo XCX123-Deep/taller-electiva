@@ -1,0 +1,1 @@
+ C:\\Users\\Usuario\\Documents\\teoria_0\\teoria_0\\.dart_tool\\flutter_build\\86c8647014530f0bab79e2d71676648b\\native_assets.json: 
