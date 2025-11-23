@@ -25223,7 +25223,7 @@ VS(a,b,c){return A.aAl(a,b,c)},
 aAl(a,b,c){var s=0,r=A.S(t.a),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$VS=A.T(function(d,e){if(d===1){o.push(e)
 s=p}while(true)switch(s){case 0:p=4
-j=A.hq("http://192.168.1.10:3000/api/auth/login")
+j=A.hq("https://backend-flutter-b8efa0aud6g5gpg4.chilecentral-01.azurewebsites.net//api/auth/login")
 i=t.N
 h=A.af(["Content-Type","application/json"],i,i)
 s=7
