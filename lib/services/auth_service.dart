@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class AuthService {
-  static const String baseUrl = 'http://192.168.1.10:3000/api/auth';
+  static const String baseUrl = 'https://backend-flutter-b8efa0aud6g5gpg4.chilecentral-01.azurewebsites.net//api/auth';
   
   // Cambiar YOUR_SERVER_IP por tu IP local o servidor en producción
   // Ejemplo: http://192.168.1.100:3000/api/auth
